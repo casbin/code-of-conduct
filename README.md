@@ -15,6 +15,10 @@ The code of conduct is placed in a separate file. You can use it for any meetups
 
 If you have any suggestions for improving this code of conduct, please feel free to submit an issue or PR. We will review, discuss and merge changes as needed. Thank you.
 
+## Credits
+
+Portions derived from [the Docker Code of Conduct](https://github.com/docker/code-of-conduct/) and [the Angular Contributor Code of Conduct](https://github.com/angular/code-of-conduct).
+
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 Unported License
