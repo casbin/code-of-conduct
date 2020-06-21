@@ -23,7 +23,7 @@ Please show your goodwill and professional level as much as possible, including 
 Harassment may include but not limited to the following:
 
 - Offensive, inappropriate, or unwanted comments related to gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, national origin, religion, or age, or other protected categories under applicable law.
-- Use or discuss any text, images or even tips related to violence and sexual behavior.
+- Use or discuss any text, images or even cues related to violence and sexual behavior.
 - Disrespect towards differences of opinion
 - Sustained disruption of talks or other events
 - Inappropriate or unwanted physical contact
