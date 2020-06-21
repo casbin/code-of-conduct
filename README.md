@@ -25,4 +25,4 @@ This work is licensed under a Creative Commons Attribution 4.0 Unported License
 
 For attribution requirements:
 
-"@Casbin Code of Conduct" © 2020 Casbin, used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/4.0/"
+"@Casbin Code of Conduct" © 2020 Casbin, used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/4.0/
